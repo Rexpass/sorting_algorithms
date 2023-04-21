@@ -1,0 +1,6 @@
+Best case: O(n), where n is the number of elements in the array. This occurs when the array is already sorted, and no swaps are necessary in the inner loop.
+
+Average case: O(n^2), where n is the number of elements in the array. This occurs when the elements in the array are randomly ordered.
+
+Worst case: O(n^2), where n is the number of elements in the array. This occurs when the array is sorted in the reverse order,
+and the inner loop swaps every element in each pass.
