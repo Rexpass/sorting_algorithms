@@ -1,0 +1,5 @@
+In the best case, when the list is already sorted, the time complexity is O(n), where n is the number of nodes in the list.
+
+In the average case, when the list is partially sorted, the time complexity is O(n^2).
+
+In the worst case, when the list is sorted in order, the time complexity is O(n^2)
